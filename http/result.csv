@@ -1,0 +1,1030 @@
+>>---,Keyspace : dummy,---<<
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_brand_keycheck_stock_detail.in_check_stock_detail_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_commercial_name_keycheck_stock_detail.in_check_stock_detail_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_mat_code_keycheck_stock_detail.in_check_stock_detail_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_model_keycheck_stock_detail.in_check_stock_detail_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_product_subtype_keycheck_stock_detail.in_check_stock_detail_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_product_type_keycheck_stock_detail.in_check_stock_detail_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_serial_match_keycheck_stock_detail.in_check_stock_detail_serial_match_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_serial_not_found_keycheck_stock_detail.in_check_stock_detail_serial_not_found_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: check_stock_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_check_stock_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_serial_match_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_serial_not_found_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_obtaindetail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_sales_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_transfer_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_request_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_adjust_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_matcode_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_salesoutdetail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdd_substock_daily_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_from_substock_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_transfer_substock_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_tom_mismatch_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): demo.demo_name_idxdemo.demo_name_idx",---<
+"		Space used (live): 5028"
+"		Space used (total): 5028"
+>---,"		Table: demo",---<
+"		Space used (live): 4952"
+"		Space used (total): 4952"
+>---,"		Table (index): obtain_detail.in_obtain_detail_mat_code_keyobtain_detail.in_obtain_detail_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_sales_code_keyobtain_detail.in_obtain_detail_sales_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_serial_keyobtain_detail.in_obtain_detail_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: obtain_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_brand_keyorder_transfer.in_order_transfer_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_mat_code_keyorder_transfer.in_order_transfer_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_model_keyorder_transfer.in_order_transfer_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_product_subtype_keyorder_transfer.in_order_transfer_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_product_type_keyorder_transfer.in_order_transfer_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: order_transfer",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_brand_keyrequest_goods.in_request_goods_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_commercial_name_keyrequest_goods.in_request_goods_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_mat_code_keyrequest_goods.in_request_goods_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_model_keyrequest_goods.in_request_goods_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_product_subtype_keyrequest_goods.in_request_goods_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_product_type_keyrequest_goods.in_request_goods_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: request_goods",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_brand_keysale_out_detail.in_sale_out_detail_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_commercial_name_keysale_out_detail.in_sale_out_detail_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_matcode_keysale_out_detail.in_sale_out_detail_matcode_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_model_keysale_out_detail.in_sale_out_detail_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_product_subtype_keysale_out_detail.in_sale_out_detail_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_product_type_keysale_out_detail.in_sale_out_detail_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_serial_keysale_out_detail.in_sale_out_detail_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: sale_out_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_brand_keystock_adjustment.in_stock_adjustment_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_commercial_name_keystock_adjustment.in_stock_adjustment_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_mat_code_keystock_adjustment.in_stock_adjustment_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_model_keystock_adjustment.in_stock_adjustment_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_product_subtype_keystock_adjustment.in_stock_adjustment_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_product_type_keystock_adjustment.in_stock_adjustment_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_serial_keystock_adjustment.in_stock_adjustment_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: stock_adjustment",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: sub_stock_daily_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sub_stock_detail_transfer.in_sub_stock_detail_transfer_from_substock_keysub_stock_detail_transfer.in_sub_stock_detail_transfer_from_substock_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sub_stock_detail_transfer.in_sub_stock_detail_transfer_mat_code_keysub_stock_detail_transfer.in_sub_stock_detail_transfer_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sub_stock_detail_transfer.in_sub_stock_detail_transfer_serial_keysub_stock_detail_transfer.in_sub_stock_detail_transfer_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: sub_stock_detail_transfer",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: test",---<
+"		Space used (live): 5676"
+"		Space used (total): 5676"
+>---,"		Table: test2",---<
+"		Space used (live): 5530"
+"		Space used (total): 5530"
+>---,"		Table: transfer_out_mismatch",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>>---,Keyspace : dummy1,---<<
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_brand_keycheck_stock_detail.in_check_stock_detail_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_commercial_name_keycheck_stock_detail.in_check_stock_detail_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_mat_code_keycheck_stock_detail.in_check_stock_detail_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_model_keycheck_stock_detail.in_check_stock_detail_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_product_subtype_keycheck_stock_detail.in_check_stock_detail_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_product_type_keycheck_stock_detail.in_check_stock_detail_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_serial_match_keycheck_stock_detail.in_check_stock_detail_serial_match_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_serial_not_found_keycheck_stock_detail.in_check_stock_detail_serial_not_found_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: check_stock_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_check_stock_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_serial_match_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_serial_not_found_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_obtaindetail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_sales_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_transfer_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_request_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_adjust_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_matcode_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_salesoutdetail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdd_substock_daily_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_from_substock_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_transfer_substock_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_tom_mismatch_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_mat_code_keyobtain_detail.in_obtain_detail_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_sales_code_keyobtain_detail.in_obtain_detail_sales_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_serial_keyobtain_detail.in_obtain_detail_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: obtain_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_brand_keyorder_transfer.in_order_transfer_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_mat_code_keyorder_transfer.in_order_transfer_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_model_keyorder_transfer.in_order_transfer_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_product_subtype_keyorder_transfer.in_order_transfer_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_product_type_keyorder_transfer.in_order_transfer_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: order_transfer",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_brand_keyrequest_goods.in_request_goods_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_commercial_name_keyrequest_goods.in_request_goods_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_mat_code_keyrequest_goods.in_request_goods_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_model_keyrequest_goods.in_request_goods_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_product_subtype_keyrequest_goods.in_request_goods_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_product_type_keyrequest_goods.in_request_goods_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: request_goods",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_brand_keysale_out_detail.in_sale_out_detail_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_commercial_name_keysale_out_detail.in_sale_out_detail_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_matcode_keysale_out_detail.in_sale_out_detail_matcode_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_model_keysale_out_detail.in_sale_out_detail_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_product_subtype_keysale_out_detail.in_sale_out_detail_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_product_type_keysale_out_detail.in_sale_out_detail_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_serial_keysale_out_detail.in_sale_out_detail_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: sale_out_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_brand_keystock_adjustment.in_stock_adjustment_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_commercial_name_keystock_adjustment.in_stock_adjustment_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_mat_code_keystock_adjustment.in_stock_adjustment_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_model_keystock_adjustment.in_stock_adjustment_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_product_subtype_keystock_adjustment.in_stock_adjustment_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_product_type_keystock_adjustment.in_stock_adjustment_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_serial_keystock_adjustment.in_stock_adjustment_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: stock_adjustment",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: sub_stock_daily_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sub_stock_detail_transfer.in_sub_stock_detail_transfer_from_substock_keysub_stock_detail_transfer.in_sub_stock_detail_transfer_from_substock_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sub_stock_detail_transfer.in_sub_stock_detail_transfer_mat_code_keysub_stock_detail_transfer.in_sub_stock_detail_transfer_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sub_stock_detail_transfer.in_sub_stock_detail_transfer_serial_keysub_stock_detail_transfer.in_sub_stock_detail_transfer_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: sub_stock_detail_transfer",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: transfer_out_mismatch",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>>---,Keyspace : ais_test_all,---<<
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_product_subtype_keycheck_stock_detail.in_check_stock_detail_product_subtype_key",---<
+"		Space used (live): 459209"
+"		Space used (total): 459209"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_product_type_keycheck_stock_detail.in_check_stock_detail_product_type_key",---<
+"		Space used (live): 459209"
+"		Space used (total): 459209"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_serial_keycheck_stock_detail.in_check_stock_detail_serial_key",---<
+"		Space used (live): 459209"
+"		Space used (total): 459209"
+>---,"		Table: check_stock_detail",---<
+"		Space used (live): 774891"
+"		Space used (total): 774891"
+>---,"		Table: ct_csd_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_check_stock_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_serial_match_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_csd_serial_not_found_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_obtaindetail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_sales_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_od_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ot_transfer_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_rg_request_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_adjust_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sa_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_matcode_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_salesoutdetail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_sod_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdd_substock_daily_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_from_substock_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_ssdt_transfer_substock_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: ct_tom_mismatch_detail_s",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_mat_code_keyobtain_detail.in_obtain_detail_mat_code_key",---<
+"		Space used (live): 454484"
+"		Space used (total): 454484"
+>---,"		Table (index): obtain_detail.in_obtain_detail_sales_code_keyobtain_detail.in_obtain_detail_sales_code_key",---<
+"		Space used (live): 454473"
+"		Space used (total): 454473"
+>---,"		Table (index): obtain_detail.in_obtain_detail_serial_keyobtain_detail.in_obtain_detail_serial_key",---<
+"		Space used (live): 454519"
+"		Space used (total): 454519"
+>---,"		Table: obtain_detail",---<
+"		Space used (live): 689680"
+"		Space used (total): 689680"
+>---,"		Table (index): order_transfer.in_order_transfer_brand_keyorder_transfer.in_order_transfer_brand_key",---<
+"		Space used (live): 459675"
+"		Space used (total): 459675"
+>---,"		Table (index): order_transfer.in_order_transfer_mat_code_keyorder_transfer.in_order_transfer_mat_code_key",---<
+"		Space used (live): 459675"
+"		Space used (total): 459675"
+>---,"		Table (index): order_transfer.in_order_transfer_model_keyorder_transfer.in_order_transfer_model_key",---<
+"		Space used (live): 459675"
+"		Space used (total): 459675"
+>---,"		Table (index): order_transfer.in_order_transfer_product_subtype_keyorder_transfer.in_order_transfer_product_subtype_key",---<
+"		Space used (live): 459675"
+"		Space used (total): 459675"
+>---,"		Table (index): order_transfer.in_order_transfer_product_type_keyorder_transfer.in_order_transfer_product_type_key",---<
+"		Space used (live): 459675"
+"		Space used (total): 459675"
+>---,"		Table: order_transfer",---<
+"		Space used (live): 1334482"
+"		Space used (total): 1334482"
+>---,"		Table (index): request_goods.in_request_goods_brand_keyrequest_goods.in_request_goods_brand_key",---<
+"		Space used (live): 444764"
+"		Space used (total): 444764"
+>---,"		Table (index): request_goods.in_request_goods_commercial_name_keyrequest_goods.in_request_goods_commercial_name_key",---<
+"		Space used (live): 444764"
+"		Space used (total): 444764"
+>---,"		Table (index): request_goods.in_request_goods_mat_code_keyrequest_goods.in_request_goods_mat_code_key",---<
+"		Space used (live): 444764"
+"		Space used (total): 444764"
+>---,"		Table (index): request_goods.in_request_goods_model_keyrequest_goods.in_request_goods_model_key",---<
+"		Space used (live): 444764"
+"		Space used (total): 444764"
+>---,"		Table (index): request_goods.in_request_goods_product_subtype_keyrequest_goods.in_request_goods_product_subtype_key",---<
+"		Space used (live): 444764"
+"		Space used (total): 444764"
+>---,"		Table (index): request_goods.in_request_goods_product_type_keyrequest_goods.in_request_goods_product_type_key",---<
+"		Space used (live): 444764"
+"		Space used (total): 444764"
+>---,"		Table: request_goods",---<
+"		Space used (live): 1388828"
+"		Space used (total): 1388828"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_brand_keysale_out_detail.in_sale_out_detail_brand_key",---<
+"		Space used (live): 454955"
+"		Space used (total): 454955"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_commercial_name_keysale_out_detail.in_sale_out_detail_commercial_name_key",---<
+"		Space used (live): 454955"
+"		Space used (total): 454955"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_matcode_keysale_out_detail.in_sale_out_detail_matcode_key",---<
+"		Space used (live): 454955"
+"		Space used (total): 454955"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_model_keysale_out_detail.in_sale_out_detail_model_key",---<
+"		Space used (live): 454955"
+"		Space used (total): 454955"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_product_subtype_keysale_out_detail.in_sale_out_detail_product_subtype_key",---<
+"		Space used (live): 454955"
+"		Space used (total): 454955"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_product_type_keysale_out_detail.in_sale_out_detail_product_type_key",---<
+"		Space used (live): 454955"
+"		Space used (total): 454955"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_serial_keysale_out_detail.in_sale_out_detail_serial_key",---<
+"		Space used (live): 454955"
+"		Space used (total): 454955"
+>---,"		Table: sale_out_detail",---<
+"		Space used (live): 745490"
+"		Space used (total): 745490"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_brand_keystock_adjustment.in_stock_adjustment_brand_key",---<
+"		Space used (live): 439116"
+"		Space used (total): 439116"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_commercial_name_keystock_adjustment.in_stock_adjustment_commercial_name_key",---<
+"		Space used (live): 439116"
+"		Space used (total): 439116"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_mat_code_keystock_adjustment.in_stock_adjustment_mat_code_key",---<
+"		Space used (live): 439116"
+"		Space used (total): 439116"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_model_keystock_adjustment.in_stock_adjustment_model_key",---<
+"		Space used (live): 439116"
+"		Space used (total): 439116"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_product_subtype_keystock_adjustment.in_stock_adjustment_product_subtype_key",---<
+"		Space used (live): 439116"
+"		Space used (total): 439116"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_product_type_keystock_adjustment.in_stock_adjustment_product_type_key",---<
+"		Space used (live): 439116"
+"		Space used (total): 439116"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_serial_keystock_adjustment.in_stock_adjustment_serial_key",---<
+"		Space used (live): 439116"
+"		Space used (total): 439116"
+>---,"		Table: stock_adjustment",---<
+"		Space used (live): 951643"
+"		Space used (total): 951643"
+>---,"		Table: sub_stock_daily_detail",---<
+"		Space used (live): 637346"
+"		Space used (total): 637346"
+>---,"		Table (index): sub_stock_detail_transfer.in_sub_stock_detail_transfer_mat_code_keysub_stock_detail_transfer.in_sub_stock_detail_transfer_mat_code_key",---<
+"		Space used (live): 453906"
+"		Space used (total): 453906"
+>---,"		Table: sub_stock_detail_transfer",---<
+"		Space used (live): 742548"
+"		Space used (total): 742548"
+>---,"		Table: tranfer_out_mismatch",---<
+"		Space used (live): 1224370"
+"		Space used (total): 1224370"
+>>---,Keyspace : system_traces,---<<
+>---,"		Table: events",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: sessions",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>>---,Keyspace : system,---<<
+>---,"		Table: IndexInfo",---<
+"		Space used (live): 23223"
+"		Space used (total): 23223"
+>---,"		Table: available_ranges",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: batches",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: batchlog",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: built_views",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: compaction_history",---<
+"		Space used (live): 15920"
+"		Space used (total): 15920"
+>---,"		Table: hints",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: local",---<
+"		Space used (live): 16734"
+"		Space used (total): 16734"
+>---,"		Table: paxos",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: peer_events",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: peers",---<
+"		Space used (live): 33158"
+"		Space used (total): 33158"
+>---,"		Table: range_xfers",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: size_estimates",---<
+"		Space used (live): 1551546"
+"		Space used (total): 1551546"
+>---,"		Table: sstable_activity",---<
+"		Space used (live): 10233"
+"		Space used (total): 10233"
+>---,"		Table: views_builds_in_progress",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>>---,Keyspace : alltrade,---<<
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_brand_keycheck_stock_detail.in_check_stock_detail_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_commercial_name_keycheck_stock_detail.in_check_stock_detail_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_mat_code_keycheck_stock_detail.in_check_stock_detail_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_model_keycheck_stock_detail.in_check_stock_detail_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_product_subtype_keycheck_stock_detail.in_check_stock_detail_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_product_type_keycheck_stock_detail.in_check_stock_detail_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_serial_match_keycheck_stock_detail.in_check_stock_detail_serial_match_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): check_stock_detail.in_check_stock_detail_serial_not_found_keycheck_stock_detail.in_check_stock_detail_serial_not_found_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: check_stock_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: demo",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_mat_code_keyobtain_detail.in_obtain_detail_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_sales_code_keyobtain_detail.in_obtain_detail_sales_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): obtain_detail.in_obtain_detail_serial_keyobtain_detail.in_obtain_detail_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: obtain_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_brand_keyorder_transfer.in_order_transfer_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_mat_code_keyorder_transfer.in_order_transfer_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_model_keyorder_transfer.in_order_transfer_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_product_subtype_keyorder_transfer.in_order_transfer_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): order_transfer.in_order_transfer_product_type_keyorder_transfer.in_order_transfer_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: order_transfer",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_brand_keyrequest_goods.in_request_goods_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_commercial_name_keyrequest_goods.in_request_goods_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_mat_code_keyrequest_goods.in_request_goods_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_model_keyrequest_goods.in_request_goods_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_product_subtype_keyrequest_goods.in_request_goods_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): request_goods.in_request_goods_product_type_keyrequest_goods.in_request_goods_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: request_goods",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_brand_keysale_out_detail.in_sale_out_detail_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_commercial_name_keysale_out_detail.in_sale_out_detail_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_matcode_keysale_out_detail.in_sale_out_detail_matcode_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_model_keysale_out_detail.in_sale_out_detail_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_product_subtype_keysale_out_detail.in_sale_out_detail_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_product_type_keysale_out_detail.in_sale_out_detail_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): sale_out_detail.in_sale_out_detail_serial_keysale_out_detail.in_sale_out_detail_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: sale_out_detail",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_brand_keystock_adjustment.in_stock_adjustment_brand_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_commercial_name_keystock_adjustment.in_stock_adjustment_commercial_name_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_mat_code_keystock_adjustment.in_stock_adjustment_mat_code_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_model_keystock_adjustment.in_stock_adjustment_model_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_product_subtype_keystock_adjustment.in_stock_adjustment_product_subtype_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_product_type_keystock_adjustment.in_stock_adjustment_product_type_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table (index): stock_adjustment.in_stock_adjustment_serial_keystock_adjustment.in_stock_adjustment_serial_key",---<
+"		Space used (live): 0"
+"		Space used (total): 0"
+>---,"		Table: stock_adjustment",---<

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;channels&gt;">
+    <CLASSES>
+      <root url="file://E:/my_git/src/golang" />
+      <root url="file://E:/my_git/src/golang.org" />
+      <root url="file://E:/my_git/src/github.com" />
+      <root url="file://E:/my_git/src/gopkg.in" />
+      <root url="file://E:/my_git/src/google.golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/my_git/src/golang" />
+      <root url="file://E:/my_git/src/golang.org" />
+      <root url="file://E:/my_git/src/github.com" />
+      <root url="file://E:/my_git/src/gopkg.in" />
+      <root url="file://E:/my_git/src/google.golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
